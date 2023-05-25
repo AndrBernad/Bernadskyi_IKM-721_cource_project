@@ -9,3 +9,4 @@
 \\Mac\Home\Desktop\bern\Bernadskyi_IKM-721_cource_project\obj\Debug\Bernadskyi_IKM-721_cource_project.csproj.CoreCompileInputs.cache
 \\Mac\Home\Desktop\bern\Bernadskyi_IKM-721_cource_project\obj\Debug\Bernadskyi_IKM-721_cource_project.exe
 \\Mac\Home\Desktop\bern\Bernadskyi_IKM-721_cource_project\obj\Debug\Bernadskyi_IKM-721_cource_project.pdb
+\\Mac\Home\Desktop\bern\Bernadskyi_IKM-721_cource_project\obj\Debug\Bernadskyi_IKM_721_cource_project.About.resources
