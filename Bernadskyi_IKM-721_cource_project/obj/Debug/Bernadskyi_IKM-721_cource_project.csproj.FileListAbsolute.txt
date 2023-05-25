@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\bern\Bernadskyi_IKM-721_cource_project\bin\Debug\Bernadskyi_IKM-721_cource_project.exe.config
+\\Mac\Home\Desktop\bern\Bernadskyi_IKM-721_cource_project\bin\Debug\Bernadskyi_IKM-721_cource_project.exe
+\\Mac\Home\Desktop\bern\Bernadskyi_IKM-721_cource_project\bin\Debug\Bernadskyi_IKM-721_cource_project.pdb
+\\Mac\Home\Desktop\bern\Bernadskyi_IKM-721_cource_project\obj\Debug\Bernadskyi_IKM-721_cource_project.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\bern\Bernadskyi_IKM-721_cource_project\obj\Debug\Bernadskyi_IKM-721_cource_project.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\bern\Bernadskyi_IKM-721_cource_project\obj\Debug\Bernadskyi_IKM_721_cource_project.Form1.resources
+\\Mac\Home\Desktop\bern\Bernadskyi_IKM-721_cource_project\obj\Debug\Bernadskyi_IKM_721_cource_project.Properties.Resources.resources
+\\Mac\Home\Desktop\bern\Bernadskyi_IKM-721_cource_project\obj\Debug\Bernadskyi_IKM-721_cource_project.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\bern\Bernadskyi_IKM-721_cource_project\obj\Debug\Bernadskyi_IKM-721_cource_project.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\bern\Bernadskyi_IKM-721_cource_project\obj\Debug\Bernadskyi_IKM-721_cource_project.exe
+\\Mac\Home\Desktop\bern\Bernadskyi_IKM-721_cource_project\obj\Debug\Bernadskyi_IKM-721_cource_project.pdb
