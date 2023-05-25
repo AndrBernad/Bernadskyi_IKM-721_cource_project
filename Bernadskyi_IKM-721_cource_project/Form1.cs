@@ -31,6 +31,7 @@ namespace Bernadskyi_IKM_721_cource_project
         {
             MajorObject = new MajorWork();
             MajorObject.SetTime();
+            MajorObject.Modify = false;// заборона запису
             About A = new About(); // створення форми About
             A.tAbout.Start();
             
@@ -100,9 +101,10 @@ namespace Bernadskyi_IKM_721_cource_project
 
         private void зберегтиЯкToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            if (sfdSave.ShowDialog() == DialogResult.OK)// Виклик діалогового вікна збереження  файлу
+            if (sfdSave.ShowDialog() == DialogResult.OK) // Виклик діалогового вікна збереження файлу
             {
-                MessageBox.Show(sfdSave.FileName);
+                MajorObject.WriteSaveFileName(sfdSave.FileName); // написання імені файлу
+                MajorObject.SaveToFile(); // метод збереження в файл
             }
         }
 
